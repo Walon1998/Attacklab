@@ -1,0 +1,7 @@
+0000000000401a7f <addval_255>:
+  401a7f:	8d 87 85 a7 c7 58    	lea    0x58c7a785(%rdi),%eax
+  401a85:	c3                   	retq   
+
+0000000000401a72 <getval_207>:
+  401a72:	b8 48 89 c7 c3       	mov    $0xc3c78948,%eax
+  401a77:	c3                   	retq   
